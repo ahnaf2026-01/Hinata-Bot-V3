@@ -16,9 +16,9 @@
   <a href="https://nodejs.org/dist/v26.0.0">
     <img src="https://img.shields.io/badge/Nodejs%20Support-26.x-brightgreen.svg?style=flat-square" alt="Nodejs Support v26">
   </a>
-  <img alt="Repo Size" src="https://img.shields.io/github/repo-size/mahmudx7/Hinata-Bot-V3.svg?style=flat-square&label=Size">
-  <img alt="Version" src="https://img.shields.io/badge/dynamic/json?color=brightgreen&label=Version&prefix=v&query=%24.version&url=https://github.com/mahmudx7/Hinata-Bot-V3/raw/main/package.json&style=flat-square">
-  <img alt="Visitors" src="https://visitor-badge.laobi.icu/badge?style=flat-square&page_id=mahmudx7/Hinata-Bot-V3">
+  <img alt="Repo Size" src="https://img.shields.io/github/repo-size/mahmud-aura/Hinata-Bot-V3.svg?style=flat-square&label=Size">
+  <img alt="Version" src="https://img.shields.io/badge/dynamic/json?color=brightgreen&label=Version&prefix=v&query=%24.version&url=https://github.com/mahmud-aura/Hinata-Bot-V3/raw/main/package.json&style=flat-square">
+  <img alt="Visitors" src="https://visitor-badge.laobi.icu/badge?style=flat-square&page_id=mahmud-aura/Hinata-Bot-V3">
   <img alt="License" src="https://img.shields.io/badge/license-MIT-green?style=flat-square&color=brightgreen">
   <a href="https://mahmud-exe.onrender.com/">
     <img src="https://img.shields.io/badge/Portfolio-mahmud--exe.onrender.com-blue?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio">
@@ -160,7 +160,7 @@ Found a bug? Need a custom feature or a private Messenger bot built for you? Rea
 
 **Developer:** [MahMUD](https://mahmud-exe.onrender.com/)  
 **Project:** Hinata-Bot-V3  
-**GitHub:** [github.com/mahmudx7/Hinata-Bot-V3](https://github.com/mahmudx7/Hinata-Bot-V3)
+**GitHub:** [github.com/mahmud-aura/Hinata-Bot-V3](https://github.com/mahmud-aura/Hinata-Bot-V3)
 
 <p align="center">
   <img src="https://i.imgur.com/UM3ekFf.jpeg" width="150px" style="border-radius: 50%;"/>
